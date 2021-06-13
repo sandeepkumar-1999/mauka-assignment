@@ -1,0 +1,63 @@
+
+
+.landing
+{
+    position: relative;
+    margin:0 auto -5rem;
+    padding: 0 0 20rem;
+}
+
+.heading
+{
+  font-size: 56px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.32;
+  letter-spacing: normal;
+  text-align: left;
+  color:#374b5c
+}
+
+.smallHeading
+{
+    margin: 10rem auto 0;
+    font-size: 36px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color:#374b5c
+}
+
+.smallText
+{
+    font-size: 1.3rem;
+    width: 29rem;
+    margin-top: 2rem;
+    color: #374b5c;
+    text-align: left;
+}
+
+.logo
+{
+
+    padding: 64.5px 65.3px 65px 66px;
+    border: solid 3px #00dbd0;
+    position: absolute;
+    top: 14.5rem;
+    right:0;
+}
+
+.flower
+{   
+    height: 32rem;
+    width: 24rem;
+    position:absolute;
+    top:12.5rem;
+    right: 12rem;
+    z-index: 99;
+    /* margin: 12.5rem 0 0; */
+}
